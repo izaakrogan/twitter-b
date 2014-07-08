@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/izaaksofer/twitter-b/issues"
   },
-  "homepage": "https://github.com/izaaksofer/twitter-b"
+  "homepage": "https://github.com/izaaksofer/twitter-b",
+  "dependencies": {
+    "twit": "^1.1.15"
+  },
+  "devDependencies": {}
 }
